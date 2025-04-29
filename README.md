@@ -6,7 +6,7 @@ I’m passionate about building **beautiful, functional, and scalable web applic
 
 ### 🛠 My Current Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,github,zod,yup,supabase,mongodb,express,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,github,supabase,mongodb,express,react,nodejs)](https://skillicons.dev)
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap, MUI, ShadCN  
 - **Backend**: Node.js, Express, MongoDB, Supabase  
